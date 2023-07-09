@@ -1,0 +1,11 @@
+{
+  "name": "ostad-module-ass-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "excerice-01.js",
+  "scripts": {
+    "start": "node excerice-11.js"
+  },
+  "author": "Shahadat Hosain",
+  "license": "ISC"
+}
